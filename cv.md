@@ -1,5 +1,7 @@
 # Natallia Shkatava
 
+![photo](C:\Users\User\Downloads\photo.jpg "photo")
+
 ## PERSONAL DATA
 
 *Country of residence:	Belarus*
@@ -33,4 +35,6 @@
 *Russian (native)*
 
 ## **CODE EXAMPLE**
-
+function multiply (a, b) {
+return a * b
+}
